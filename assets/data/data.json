@@ -15,15 +15,15 @@
     "about": "Soy un Desarrollador e Ingeniero DevOps apasionado por construir soluciones eficientes y escalables. Con una sólida experiencia en desarrollo full stack, automatización y gestión de infraestructuras con herramientas como Docker y Terraform, me especializo en optimizar procesos y facilitar la integración continua en equipos ágiles. Mi enfoque está en los detalles, pero siempre con la vista puesta en el impacto global de cada proyecto.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-html5-plain",
             "name": "HTML"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-javascript-plain",
             "name": "JavaScript"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-java-plain",
             "name": "Java"
         },
         {
@@ -33,8 +33,49 @@
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
+        },
+        {
+            "icon": "devicon-terraform-plain",
+            "name": "Terraform"
+        },
+        {
+            "icon": "devicon-ansible-plain",
+            "name": "Ansible"
+        },
+        {
+            "icon": "devicon-jenkins-plain",
+            "name": "Jenkins"
+        },
+        {
+            "icon": "devicon-aws-plain",
+            "name": "AWS"
+        },
+        {
+            "icon": "devicon-azure-plain",
+            "name": "Azure"
+        },
+        {
+            "icon": "devicon-googlecloud-plain",
+            "name": "Google Cloud"
+        },
+        {
+            "icon": "devicon-prometheus-plain",
+            "name": "Prometheus"
+        },
+        {
+            "icon": "devicon-grafana-plain",
+            "name": "Grafana"
         }
     ],
+
     "experience": [
         {
             "icon": "terminal",
